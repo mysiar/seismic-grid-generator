@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="grid_generator">
+    <file>icons/disk-24.png</file>
+    <file>icons/disk-16.png</file>
+    <file>icons/key-16.png</file>
+    <file>icons/burn-16.png</file>
+    <file>icons/burn-24.png</file>
+    <file>icons/cross-16.png</file>
+    <file>icons/cross-24.png</file>
+    <file>icons/folder-open-document-16.png</file>
+    <file>icons/folder-open-document-24.png</file>
+    <file>icons/information-button-16.png</file>
+    <file>icons/information-button-24.png</file>
+    <file>icons/question-button-12.png</file>
+    <file>icons/question-button-24.png</file>
+    <file>icons/tree-16.png</file>
+    <file>icons/tree-24.png</file>
+    <file>icons/tree--pencil-16.png</file>
+    <file>icons/tree--pencil-24.png</file>
+    <file>icons/tree--plus-16.png</file>
+    <file>icons/tree--plus-24.png</file>
+  </qresource>
+</RCC>
